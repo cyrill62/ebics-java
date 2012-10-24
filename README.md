@@ -27,6 +27,15 @@ You need to add the following mirror in your ~/.m2/settings.xml otherwise stax c
 </settings>
 ```
 
+Documentation
+-------------
+
+```
+mvn javadoc:javadoc
+```
+
+HTML doc is generated to `target/site/apidocs/`.
+
 Related Links
 -------------
 
