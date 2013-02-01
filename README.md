@@ -36,6 +36,17 @@ mvn javadoc:javadoc
 
 HTML doc is generated to `target/site/apidocs/`.
 
+Tested bank services
+---------------------
+
+<table>
+<tr><th>BANK</th><th>COUNTRY</th><th>STATUS</th></tr>
+<tr><td>Credit Agricole</td><td>France</td><td>OK</td></tr>
+<tr><td>Société Générale</td><td>France</td><td>OK</td></tr>
+<tr><td>Le crédit Lyonais</td><td>France</td><td>?</td></tr>
+<tr><td>La banque postale</td><td>France</td><td>pending</td></tr>
+</table>
+
 Related Links
 -------------
 
